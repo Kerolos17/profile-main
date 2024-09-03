@@ -64,13 +64,12 @@ body{
 }
 @media screen and (max-width:375px) {
     body{
-        border: 30px;
+        border: 50px;
         font-size: 12px;
     }
     .container{
         max-width: 300px;
-        max-height: 550px;
-        gap: 5px;
+        gap: 10px;
     }
 }
 
