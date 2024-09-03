@@ -62,12 +62,14 @@ body{
 .social-links a:hover{
     background-color: hsl(75, 94%, 57%);
 }
-@media screen and (max-width:375px) {
+@media screen and (max-width:450px) {
     body{
         padding: 50px;
         font-size: 12px;
     }
     .container{
+        max-width: 300px;
+        max-height: 700px;
         padding: 30px 20px;
         margin: auto;
     }
