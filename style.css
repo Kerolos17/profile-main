@@ -68,8 +68,6 @@ body{
         font-size: 12px;
     }
     .container{
-        max-width: 300px;
-        max-height: 700px;
         padding: 30px 20px;
         margin: auto;
     }
